@@ -7,6 +7,7 @@ const App = () => {
     <View>
       <MainHeading title="Allah u akbar" />
       <MainHeading title="Allah u akbar" />
+      <MainHeading title="Allah u akbar" />
     </View>
   );
 };
